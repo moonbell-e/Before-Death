@@ -1,5 +1,5 @@
 # Before-Death
-[Ссылка на проект](https://ulfgard.itch.io/before-death-bar)
+[Ссылка на проект на itch.io](https://ulfgard.itch.io/before-death-bar)
 
 1. [English](#en)
 2. [Russian](#rus)
