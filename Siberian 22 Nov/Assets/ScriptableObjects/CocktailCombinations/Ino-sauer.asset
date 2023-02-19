@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5ba1f587a448540b33f262d1be088c, type: 3}
+  m_Name: Ino-sauer
+  m_EditorClassIdentifier: 
+  _sound:
+    Guid:
+      Data1: -1096841300
+      Data2: 1132430266
+      Data3: -284941928
+      Data4: 731546047
+    Path: event:/SFX/ready_cocktails/finish_cocktail_4
+  _parameters: {fileID: 11400000, guid: f0dca700cd38486418140442b436e07a, type: 2}
+  _ice: 0
+  _ingridients:
+  - {fileID: 11400000, guid: d08d9174e04240b4b84aa33f37ce4303, type: 2}
+  - {fileID: 11400000, guid: 9f968b52c5d49104b9c8e1f270c622a9, type: 2}
+  _anyIngridientCount: 0
+  _color: {r: 0.7264151, g: 0.16035953, b: 0.57896143, a: 0.69411767}

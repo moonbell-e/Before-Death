@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f1d6b586d14c0469cc69527ba0ce65, type: 3}
+  m_Name: GreenWitch
+  m_EditorClassIdentifier: 
+  _sound:
+    Guid:
+      Data1: -1206761094
+      Data2: 1337491972
+      Data3: 264647328
+      Data4: 1532292992
+    Path: event:/SFX/ready_cocktails/finish_cocktail_2
+  _name: "\u0417\u0435\u043B\u0451\u043D\u0430\u044F \u0432\u0435\u0434\u044C\u043C\u0430"
+  _description: "\u0417\u0435\u043C\u043D\u0430\u044F \u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430,
+    \u0417\u0430\u043F\u0440\u0435\u0449\u0451\u043D\u043D\u0430\u044F \u043D\u0430
+    \u0440\u043E\u0434\u043D\u043E\u0439 \u043F\u043B\u0430\u043D\u0435\u0442\u0435.
+    \u041D\u0430\u0448 \u0432\u0430\u0440\u0438\u0430\u043D\u0442 \u0432\u044B\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u0432 \u0443\u0441\u043A\u043E\u0440\u0435\u043D\u043D\u043E\u043C \u0432\u0440\u0435\u043C\u0435\u043D\u0438,
+    \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0447\u0435\u043C\u0443
+    \u043E\u0431\u043B\u0430\u0434\u0430\u0435\u0442 \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0439
+    \u043A\u0440\u0435\u043F\u043E\u0441\u0442\u044C\u044E."
+  _parameters:
+  - _name: Aristocrate
+    _value: 0
+  - _name: BadGuy
+    _value: 1
+  - _name: Homely
+    _value: 0
+  - _name: PartyAnimal
+    _value: 0

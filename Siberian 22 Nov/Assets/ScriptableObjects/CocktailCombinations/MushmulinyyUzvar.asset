@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5ba1f587a448540b33f262d1be088c, type: 3}
+  m_Name: MushmulinyyUzvar
+  m_EditorClassIdentifier: 
+  _sound:
+    Guid:
+      Data1: -243834792
+      Data2: 1166515590
+      Data3: 1348401342
+      Data4: 242198639
+    Path: event:/SFX/ready_cocktails/finish_cocktail_1
+  _parameters: {fileID: 11400000, guid: ab70b58babec9964e81a7c5451ebe07e, type: 2}
+  _ice: 1
+  _ingridients:
+  - {fileID: 11400000, guid: eb7b9b3ba012c0f40be94967180e5798, type: 2}
+  - {fileID: 11400000, guid: d08d9174e04240b4b84aa33f37ce4303, type: 2}
+  _anyIngridientCount: 0
+  _color: {r: 0.55902153, g: 0.9150943, b: 0.3056069, a: 0.78431374}

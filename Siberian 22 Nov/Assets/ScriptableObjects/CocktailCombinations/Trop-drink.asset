@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5ba1f587a448540b33f262d1be088c, type: 3}
+  m_Name: Trop-drink
+  m_EditorClassIdentifier: 
+  _sound:
+    Guid:
+      Data1: -1206761094
+      Data2: 1337491972
+      Data3: 264647328
+      Data4: 1532292992
+    Path: event:/SFX/ready_cocktails/finish_cocktail_2
+  _parameters: {fileID: 11400000, guid: a468986fb208b4040adf1c7fae4f6437, type: 2}
+  _ice: 1
+  _ingridients:
+  - {fileID: 11400000, guid: eb7b9b3ba012c0f40be94967180e5798, type: 2}
+  - {fileID: 11400000, guid: d892b87868ba0514ea8a5ef57c27891b, type: 2}
+  _anyIngridientCount: 0
+  _color: {r: 0.8773585, g: 0.2229844, b: 0.094357364, a: 0.48235294}

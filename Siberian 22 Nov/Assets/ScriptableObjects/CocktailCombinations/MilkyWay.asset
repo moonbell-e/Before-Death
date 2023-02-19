@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5ba1f587a448540b33f262d1be088c, type: 3}
+  m_Name: MilkyWay
+  m_EditorClassIdentifier: 
+  _sound:
+    Guid:
+      Data1: -1943850409
+      Data2: 1287549820
+      Data3: -305536602
+      Data4: 1966146592
+    Path: event:/SFX/ready_cocktails/finish_cocktail_3
+  _parameters: {fileID: 11400000, guid: ca224d53f53755c4e9f3f60f4cc6bf93, type: 2}
+  _ice: 1
+  _ingridients:
+  - {fileID: 11400000, guid: 725e8e048623b394585563973175ca60, type: 2}
+  _anyIngridientCount: 1
+  _color: {r: 0.092701994, g: 0.33453715, b: 0.7924528, a: 1}
