@@ -21,7 +21,7 @@ The main control in the game is by the left mouse button (LMB). Click on the obj
 
 Управление осуществляется левой кнопкой мыши (ЛКМ). Нажмите по объекту для его выбора и по бутылке, чтобы перенести в неё объект. Также на ЛКМ можно пообщаться с посетителем и узнать, чего он хочет. Рекомендую сначала пройти обучение и ознакомиться с книгой, а затем приступить к набиванию рекорда в бесконечном режиме.
 
-
+## Как выглядит игра
 ![eT8p6H](https://user-images.githubusercontent.com/71431806/219969928-57f4eef7-4d60-4495-a6d4-5e7fd4cc394d.png)
 ![Zz_ZAA](https://user-images.githubusercontent.com/71431806/219969929-f62c0820-d413-4e3e-abae-83d7ccc19d80.png)
 ![bHzQqo](https://user-images.githubusercontent.com/71431806/219969930-cb79cbcb-3edd-4b4a-8c86-0ab9d505ec7d.png)
